@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ali
-- 👀 I’m interested in cyber security and web Programming and Database and locking forword to learn tham more 
+- 👀 I’m interested in cyber security and web Programming and Database and looking forword to learn tham more 
 - 🌱 I’m currently learning  web and  Database and robotics
 - 💞️ I’m looking to collaborate on some Tasks and projects 
 - 📫 How to reach me this is my formal mail ali.r.aleissi@gmail.com 
