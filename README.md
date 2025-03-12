@@ -16,8 +16,8 @@ I'm a passionate **web developer** and **cybersecurity enthusiast** with a stron
 
 ## 📫 How to Reach Me  
 📧 Email: **ali.r.aleissi@gmail.com**  
-🔗 [LinkedIn](#) (Add your LinkedIn profile if available)  
-🐦 [Twitter](#) (If you have a Twitter/X profile)  
+🔗 [LinkedIn](#) 
+🐦 [Twitter](#)   
 
 <!---
 AliRALEissi/AliRALEissi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
