@@ -16,7 +16,7 @@ I'm a passionate **web developer** and **cybersecurity enthusiast** with a stron
 
 ## 📫 How to Reach Me  
 📧 Email: **ali.r.aleissi@gmail.com**  
-🔗 [LinkedIn](#) 
+🔗 [LinkedIn](www.linkedin.com/in/ali-alessa-03318630b) 
 
 <!---
 🐦 [Twitter](#)   
