@@ -1,22 +1,23 @@
-# 👋 Hi, I'm Ali!
+# 👋 Hi, I'm Ali  
 
 ## 🚀 About Me  
-I'm a passionate **web developer** and **cybersecurity enthusiast** with a strong interest in **databases** and **automation**. I love exploring new technologies and continuously improving my skills in **full-stack development** and **security practices**.  
+Passionate **web developer** & **cybersecurity enthusiast** with a keen interest in **databases** and **automation**. I enjoy exploring new technologies and sharpening my skills in **full-stack development** and **security practices**.  
 
-## 🎯 What I'm Currently Learning  
-- **Full-Stack Development** (PHP, JavaScript, React, MySQL)  
-- **Cybersecurity** (Penetration Testing, Network Security)  
-- **Database Management** (SQL, Data Structuring)  
-- **Robotics & Automation** (Experimenting with AI and automation tools)  
+## 🎯 Currently Learning  
+- **Full-Stack Development:** PHP, JavaScript, React, MySQL  
+- **Cybersecurity:** Penetration Testing, Network Security  
+- **Database Management:** SQL, Data Structuring  
+- **Automation & AI:** Robotics experiments and workflow automation  
 
-## 💡 What I’m Looking For  
-- Collaborations on **web development** and **automation projects**  
-- Opportunities to enhance **cybersecurity knowledge and skills**  
-- Connecting with like-minded developers and security professionals  
+## 💡 Open To  
+- Collaborations on **web development** or **automation projects**  
+- Expanding my expertise in **cybersecurity**  
+- Networking with developers & security professionals  
 
-## 📫 How to Reach Me  
-📧 Email: **ali.r.aleissi@gmail.com**  
-🔗 [LinkedIn](www.linkedin.com/in/ali-alessa-03318630b) 
+## 📫 Connect With Me  
+📧 **ali.r.aleissi@gmail.com**  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/ali-alessa-03318630b)  
+
 
 <!---
 🐦 [Twitter](#)   
